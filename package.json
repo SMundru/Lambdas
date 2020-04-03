@@ -8,5 +8,11 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "aws-sdk": "^2.652.0"
+  },
+  "dependencies": {
+    "@thundra/core": "^2.9.7"
+  }
 }
