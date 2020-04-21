@@ -195,7 +195,7 @@ exports.handler = (event, context, callback) => {
                 S: `${fileKey}`
             },
             "PosterUrl": {
-                S: 'https://' + bucket + '.s3.eu-west-2.amazonaws.com/' + objectName + '.0000001.png'
+                S: 'https://agastya-posters.s3.eu-west-2.amazonaws.com/' + objectName + '.0000001.png'
             },
             "VideoUrl": {
                 S: 'https://d27s0pq0m2kt4k.cloudfront.net/' + objectName + '.mp4'
