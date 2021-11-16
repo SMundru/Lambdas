@@ -10,7 +10,7 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "aws-sdk": "^2.652.0"
+    "aws-sdk": "^2.814.0"
   },
   "dependencies": {
     "@thundra/core": "^2.9.7",
